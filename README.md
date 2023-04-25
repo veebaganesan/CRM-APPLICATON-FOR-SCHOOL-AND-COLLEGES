@@ -2,7 +2,7 @@
  
 TRAILHEAD URLs
 
-TEAM LEAD: https//trailblazer.me/id/veebg
-TEAM MEMBER 1: https//trailblazer.me/id/prasanna9976931342
-TEAM MEMBER 2: https//trailblazer.me/id/boomikaa333
-TEAM MEMBER 3: https//trailblazer.me/id/podhumponnukaruppaiah
+Team Lead - https://trailblazer.me/id/veebg
+Team Member 1 - https://trailblazer.me/id/prasanna9976931342
+Team Member 2 - https://trailblazer.me/id/boomikaa333
+Team Member 3 - https://trailblazer.me/id/podhumponnukaruppaiah
